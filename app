@@ -1,0 +1,1 @@
+src/sbt-test/closuretemplates/00-defaults/app
