@@ -13,7 +13,7 @@ This plugin is designed for using Google Closure Templates with SBT 0.12+
 
 Import the plugin
 
-`mport com.kinja.sbt.closuretemplates.SbtSoy._`
+`import com.kinja.sbt.closuretemplates.SbtSoy._`
 
 Add the settings:
 
